@@ -1,3 +1,13 @@
+# Ignore Mac DS_Store files
+.DS_Store
+
+# Ignore previous Jypyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Adding config.py file.
+api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
