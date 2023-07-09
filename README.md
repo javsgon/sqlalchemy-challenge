@@ -81,7 +81,7 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 5- /api/v1.0/<start> and /api/v1.0/<start>/<end>
 
-* Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range.
+* Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range in YYYY-MM-DD format.
 
 * For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 
