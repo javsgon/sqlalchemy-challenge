@@ -1,7 +1,7 @@
 # SQLAlchemy Challenge
 
 ## Instructions
-Do a climate analysis about Honolulu, Hawaii using Python and SQLAlchemy.
+Do a climate analysis about Honolulu, Hawaii using Python and SQLAlchemy and then design a climate App using Flask.
 
 ## Part 1: Analyze and Explore the Climate Data
 Perform a basic climate analysis and data exploration of your climate database. Specifically, using SQLAlchemy ORM queries, Pandas, and Matplotlib.
